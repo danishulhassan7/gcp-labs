@@ -11,3 +11,5 @@ Quest Title: Automate Interactions with Contact Center AI
 4: Dialogflow Logging and Monitoring in Operations Suite
 
 5: Automate Interactions with Contact Center AI: Challenge Lab
+
+Git Repo: https://github.com/danishulhassan7/gcp-labs
