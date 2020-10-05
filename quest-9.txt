@@ -1,0 +1,13 @@
+
+
+Quest Title: Automate Interactions with Contact Center AI
+
+1: Design Conversational Flows for your Agent
+
+2: Building Virtual Agent Fulfillment
+
+3: Adding a Phone Gateway to a Virtual Agent
+
+4: Dialogflow Logging and Monitoring in Operations Suite
+
+5: Automate Interactions with Contact Center AI: Challenge Lab
